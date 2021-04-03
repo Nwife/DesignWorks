@@ -10,6 +10,6 @@ Figma file: https://oyemademosestemitope.medium.com/travlr-app-case-study-1cd00a
 ## B. Food Website Landing Page
 I designed the landing page of a food website.<br>
 Figma file: https://www.figma.com/file/0qRD6Pf0ZJkKj8bsx9cWgD/landingPage
-## Landing Page for an Art Gallery
+## C. Landing Page for an Art Gallery
 I designed the landing page for a digital art gallery.<br>
 Figma file: https://www.figma.com/file/0qRD6Pf0ZJkKj8bsx9cWgD/landingPage <br>
